@@ -1,0 +1,19 @@
+{
+  "name": "creating-retrieving-todo-items",
+  "version": "1.0.0",
+  "description": "Creating and  Retrieving Todo  Iitems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/creating-retrieving-todo-items.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/creating-retrieving-todo-items/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/creating-retrieving-todo-items#readme"
+}
