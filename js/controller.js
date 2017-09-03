@@ -33,7 +33,7 @@ angular.module('RouteControllers', [])
                     $scope.login();
                 }).catch(function(err) {
                     alert("Oops! Something went wrong!");
-                   // console.log(err);
+                  console.log(err);
                 });
             }
         }
